@@ -1,7 +1,7 @@
 package com.valour.kotlinstartup
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 
 class HomeActivity : AppCompatActivity() {
 
@@ -9,4 +9,5 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.home_activity)
     }
+
 }
